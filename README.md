@@ -10,5 +10,5 @@ This builds a feedback controller that enables a ground robot, which obeys di er
  
  roslaunch wall_following_assignment wall_follower_python.launch
  
- <b>result video has been attached</b>
+ <b>result stats has been attached</b>
  
